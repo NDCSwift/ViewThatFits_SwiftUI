@@ -12,7 +12,7 @@ This project demonstrates `ViewThatFits`, a SwiftUI container that tries each ch
 - **Reusable components** — the same view renders correctly at any size, making it safe to use in widgets, lists, and split-view sidebars
 
 ## 📺 Watch on YouTube
-[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtube.com/watch?v=PLACEHOLDER)
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/Heuq0oKtcwA)
 
 > This project was built for the [NoahDoesCoding YouTube channel](https://www.youtube.com/@NoahDoesCoding97).
 
@@ -52,4 +52,4 @@ Run on Simulator or a real device — no additional setup required.
 
 ---
 
-📺 [Watch the guide on YouTube](https://youtube.com/watch?v=PLACEHOLDER)
+📺 [Watch the guide on YouTube](https://youtu.be/Heuq0oKtcwA)
